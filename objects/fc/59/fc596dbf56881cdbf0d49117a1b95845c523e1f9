@@ -1,0 +1,19 @@
+{
+  "name": "sehir",
+  "current": "sehir",
+  "boxes": [
+    {
+      "pos1": [
+        367,
+        49,
+        684
+      ],
+      "pos2": [
+        236,
+        125,
+        775
+      ],
+      "name": "sehir"
+    }
+  ]
+}

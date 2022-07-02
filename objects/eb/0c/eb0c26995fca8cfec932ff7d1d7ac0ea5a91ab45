@@ -1,0 +1,50 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = screenshots/2022-03-04_19.12.21.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=604346%
+  action = hidebutton
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = false
+  x = 179
+  slim = false
+  actionid = c7abe84b-d3da-40d3-915d-d832f13671191646157610149
+  action = addentity
+  y = 230
+  scale = 30
+  playername = %playername%
+  parrot = true
+}
+
+customization {
+  path = spectercraft1.png
+  orientation = top-centered
+  x = -144
+  width = 289
+  action = addtexture
+  actionid = b7ca437e-2089-4eaa-a24c-7db52e619f181646307422848
+  y = -15
+  height = 164
+}
+
