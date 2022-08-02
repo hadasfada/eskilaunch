@@ -1,0 +1,19 @@
+{
+  "name": "vampirsato",
+  "current": "vampirsato",
+  "boxes": [
+    {
+      "pos1": [
+        175,
+        134,
+        -416
+      ],
+      "pos2": [
+        2,
+        256,
+        -586
+      ],
+      "name": "vampirsato"
+    }
+  ]
+}

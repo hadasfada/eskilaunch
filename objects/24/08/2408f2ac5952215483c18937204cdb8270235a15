@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/programlar/CurseForgeModpacks/Instances/SpecterCraft (2) (1)/saves/world
+}
+
