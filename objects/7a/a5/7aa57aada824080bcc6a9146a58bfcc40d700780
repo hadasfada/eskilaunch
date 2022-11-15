@@ -1,0 +1,7 @@
+#This file stores configuration options for Iris, such as the currently active shaderpack
+#Tue Nov 15 22:08:31 EET 2022
+enableDebugOptions=false
+disableUpdateMessage=false
+enableShaders=false
+maxShadowRenderDistance=8
+shaderPack=Sildur's+Vibrant+Shaders+v1.41+Extreme-VL.zip
