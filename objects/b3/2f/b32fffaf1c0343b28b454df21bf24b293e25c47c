@@ -1,0 +1,7 @@
+#This file stores configuration options for Iris, such as the currently active shaderpack
+#Sun Jul 23 04:05:10 TRT 2023
+enableDebugOptions=false
+disableUpdateMessage=false
+enableShaders=false
+maxShadowRenderDistance=16
+shaderPack=SEUS-Renewed-v1.0.1.zip
